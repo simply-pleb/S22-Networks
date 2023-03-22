@@ -1,0 +1,18 @@
+
+5
+ping 
+
+
+TASK 11
+
+1. DNS and HTTP
+	http://mycoolsite.com/index.html
+
+2. TFP
+	ftp 192.168.10.102
+	user: cisco
+	pass: cisco
+	get .
+
+3. MAIL
+
